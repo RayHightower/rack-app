@@ -1,4 +1,4 @@
-# my_rack_app.rb
+# simple_echo_server.rb
 
 require 'rack'
 
